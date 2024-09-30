@@ -1,0 +1,8 @@
+Order: Order_18_01_2024_15_02_20
+Date: 18/01/2024 15:02:20
+Client: Sabrina
+Books Ordered: 
+1ISBN: 49523
+ Price20.0
+***************
+Total: 20.0

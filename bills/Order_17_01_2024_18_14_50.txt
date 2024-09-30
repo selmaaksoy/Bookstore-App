@@ -1,0 +1,8 @@
+Order: Order_17_01_2024_18_14_50
+Date: 17/01/2024 18:14:50
+Client: Meli
+Books Ordered: 
+1ISBN: 3849
+ Price20.0
+***************
+Total: 20.0

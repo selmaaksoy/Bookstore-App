@@ -1,0 +1,8 @@
+Order: Order_18_01_2024_15_14_42
+Date: 18/01/2024 15:14:42
+Client: Nala
+Books Ordered: 
+3ISBN: 4028
+ Price20.0
+***************
+Total: 60.0

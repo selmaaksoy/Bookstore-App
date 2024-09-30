@@ -1,0 +1,8 @@
+Order: Order_17_01_2024_18_14_39
+Date: 17/01/2024 18:14:39
+Client: Saadet
+Books Ordered: 
+1ISBN: 2943
+ Price50.0
+***************
+Total: 50.0
